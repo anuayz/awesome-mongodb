@@ -194,6 +194,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Administration
  - [mongoctl](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
  - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
+ - [POC Driver](https://github.com/johnlpage/POCDriver) - Generate Different workloads and benchmark your setup
  - [mongodb-tools](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
  - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
@@ -262,6 +263,7 @@ Services:
 
  - [Datadog](https://www.datadoghq.com/blog/monitor-mongodb-performance-with-datadog/) - SaaS-based monitoring
  - [VividCortex](https://www.vividcortex.com) - SaaS-based query performance analytics and monitoring
+ - [Keyhole](https://github.com/simagix/keyhole) - MongoDB performance analytics tool, written in GO (Golang)
 
 ### Shell
  - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
